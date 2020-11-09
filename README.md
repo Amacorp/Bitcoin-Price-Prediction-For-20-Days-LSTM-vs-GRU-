@@ -11,3 +11,5 @@ In this post, you will get insight into LSTMs using the words of research scient
 There are few that are better at clearly and precisely articulating both the promise of LSTMs and how they work than the experts that developed them.
 
 We will explore key questions in the field of LSTMs using quotes from the experts, and if you’re interested, you will be able to dive into the original papers from which the quotes were taken.
+
+https://www.kaggle.com/mekhdigakhramanian/bitcoin-price-prediction-for-20-days-lstm-vs-gru/
